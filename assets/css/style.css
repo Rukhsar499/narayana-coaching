@@ -161,7 +161,7 @@ h2{
 }
 .rib{
   position: absolute;
-    top: -36px;
+    top: -39px;
     left: 0%;
 }
 .cont-mh{
@@ -395,6 +395,19 @@ hr{
   left: 7%;
   bottom: 2%;
   color: #fff;
+}
+.sucess-box{
+  background-color: #f2f3f4;
+  padding: 30px;
+  box-shadow: ;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.sucess-box img{
+  width: 100px;
+  height:100px;
+  border-radius: 50%;
+  margin: 0px 10px 10px 0px;
 }
 .jee{
   position: absolute;
