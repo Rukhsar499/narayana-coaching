@@ -296,6 +296,41 @@ hr{
   top:0%;
   left:0%;
 }
+.course-div {
+    position: relative;
+    width: 100%;
+    max-width: 300px;
+}
+.text-img {
+  position: absolute;
+  bottom: 10%;
+  left: 30%;
+  text-align: center;
+  color: #fff;
+}
+.overlay {
+    position: absolute;
+    bottom: -2%;
+    font-weight: 400;
+    color: #f1f1f1;
+    width: 100%;
+    transition: .5s ease;
+    opacity: 0;
+    color: white;
+    font-size: 14px;
+    padding: 20px;
+    text-align: center;
+}
+.course-div:hover .overlay {
+  opacity: 1;
+}
+#automobile{
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color:#fff;
+  line-height: 30px;
+  font-size: 18px;
+  }
 @media (max-width: 1400px) and (min-width: 1200px) {
  
 }
