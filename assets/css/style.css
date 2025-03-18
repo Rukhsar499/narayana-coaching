@@ -368,6 +368,50 @@ hr{
   left: -10px;
   margin-bottom: 20px;
 } 
+.team-img img{
+  border-radius: 20px;
+  overflow: hidden;
+  object-fit: cover;
+  transition: .3s;
+}
+.team-img{
+  position: relative;
+}
+.team-img img:hover {
+  transform: scale(1.04);
+  border-radius: 20px;
+}
+.team-text{
+  position: absolute;
+  left: 7%;
+  bottom: 2%;
+  color: #fff;
+}
+.jee{
+  position: absolute;
+  top: 4%;
+  left: 0%;
+  background-color: #ed7900;
+  color: #fff;
+  padding: 7px 15px 0px 15px;
+  display: inline-block;
+  border-radius: 5px 0px 5px 0px;
+  font-size: 10px;
+}
+.jee h6, .jees h6{
+  font-size: 12px;
+}
+.jees{
+  position: absolute;
+  top: 4%;
+  left: 0%;
+  background-color: #1A7EBD;
+  color: #fff;
+  padding: 7px 15px 0px 15px;
+  display: inline-block;
+  border-radius: 5px 0px 5px 0px;
+  font-size: 10px;
+}
 @media (max-width: 1400px) and (min-width: 1200px) {
  
 }
