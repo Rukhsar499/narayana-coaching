@@ -157,6 +157,12 @@ h2{
   background-color: #1A7EBD;
   padding: 40px;
   margin-top: 120px;
+  position: relative;
+}
+.rib{
+  position: absolute;
+    top: -36px;
+    left: 0%;
 }
 .form-control, .form-select {
   background-color: transparent;
