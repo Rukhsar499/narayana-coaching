@@ -330,7 +330,44 @@ hr{
   color:#fff;
   line-height: 30px;
   font-size: 18px;
-  }
+ }
+.why-sec{
+  padding-top: 50px;
+}
+.mission-box{
+  background-color: #1A7EBD;
+  padding: 30px 20px 20px 20px;
+  border-radius: 10px;
+  color: #fff;
+  height: 100%;
+}
+#mission{
+  padding-top: 15px;
+}
+.vission-box{
+  background-color: #ed7900;
+  padding: 30px 20px 20px 20px;
+  border-radius: 10px;
+  color: #fff;
+  height: 100%;
+}
+.juli{
+  position: relative;
+}
+.juli ul li{
+  list-style: none;
+  color: #000;
+  padding-bottom: 20px;
+}
+.juli ul li::before{
+  content: '';
+  background-image: url(../img/favicon.png);
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  left: -10px;
+  margin-bottom: 20px;
+} 
 @media (max-width: 1400px) and (min-width: 1200px) {
  
 }
