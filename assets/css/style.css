@@ -140,6 +140,18 @@ h3{
   border-radius: 20px;
   height: 100%;
 }
+.blog-box{
+  background-color: #e0eafdcb;
+  padding: 20px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 
+                0 2px 4px -2px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.blog-box img{
+  margin-bottom: 20px;
+}
+
 .white-box{
   padding: 50px 20px 0px 20px;
 }
