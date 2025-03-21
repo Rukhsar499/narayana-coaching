@@ -126,11 +126,9 @@ h3{
   color: #1A7EBD;
   margin-bottom: 0px;
 }
-.kol{
-  font-size: 18px;
-  font-family: "Poppins", sans-serif;
-  margin-left: 5px;
- 
+.center1{
+  background-color: #1A7EBD;
+  padding: 20px;
 }
 .center-btn{
   background-color: #ed7900;
