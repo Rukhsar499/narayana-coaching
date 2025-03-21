@@ -130,11 +130,28 @@ h3{
   background-color: #FFEEE1;
   padding: 20px;
   border-radius: 7px;
-
+}
+.inno img{
+  margin-bottom: 20px;
+}
+.inno{
+  padding-right: 20px;
 }
 .cc img{
   width: 20px;
   height: 20px;
+}
+.trsck{
+  background-color: #1A7EBD;
+  padding: 30px 0px;
+}
+.trs-box{
+  text-align: center;
+  padding: 20px;
+  color: #fff;
+}
+.border-r{
+  border-right: 1px solid #fff;
 }
 .center-btn{
   background-color: #E0EAFD;
