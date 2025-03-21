@@ -134,6 +134,15 @@ h3{
 .inno img{
   margin-bottom: 10px;
 }
+.white-box1{
+  background-color: #ffeee14d;
+  padding: 30px;
+  border-radius: 20px;
+  height: 100%;
+}
+.white-box{
+  padding: 50px 20px 0px 20px;
+}
 .inno{
   padding-right: 20px;
 }
