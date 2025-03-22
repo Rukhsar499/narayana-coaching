@@ -568,4 +568,57 @@ hr{
   width: 120px;
   height: 20px;
 }
+h2 {
+ font-size: 30px;
+}
+h5{
+  font-size: 18px;
+}
+.new-img{
+  margin-top: 20px;
+}
+.card{
+  margin-bottom: 20px;
+}
+.why-img {
+  margin-top: 0px;
+}
+.why-text {
+  padding: 20px 0px;
+}
+.mb {
+  margin-bottom: 20px;
+}
+.course-div{
+  margin-bottom: 20px;
+}
+.second img{
+  width: 50px;
+  height: 50px;
+}
+#stu {
+  font-size: 14px;
+  padding-top: 16px;
+  font-weight: 600;
+}
+.free-txt {
+  padding: 0px 10px 0px 10px;
+}
+#free {
+ margin-top: 20px;
+  font-size: 25px;
+}
+.form {
+margin-top: 20px;
+}
+.testimonial {
+  padding: 50px 0px 40px 6px;
+}
+.footer {
+  background-image: none;
+  background-color: #1A7EBD;
+}
+.footer-text{
+  padding-bottom: 30px;
+}
 }

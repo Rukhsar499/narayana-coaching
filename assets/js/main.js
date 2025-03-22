@@ -31,7 +31,4 @@
       }, 1);
   });
 
-// close-btn
-function closeSection() {
-  document.getElementById("closeable-section").style.display = "none";
-}
+
