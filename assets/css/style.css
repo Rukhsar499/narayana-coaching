@@ -619,6 +619,9 @@ margin-top: 20px;
   background-color: #1A7EBD;
 }
 .footer-text{
-  padding-bottom: 30px;
+  padding-bottom: 20px;
+}
+.navbar{
+  padding-top: 20px;
 }
 }
