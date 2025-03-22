@@ -23,6 +23,11 @@ a{
   clip-path: polygon(50% 0%, 100% 0, 100% 43%, 100% 84%, 49% 100%, 0 86%, 0% 43%, 0 0);
   
 }
+.line {
+  width: 400px;
+  margin: 0 auto;
+  color: #fff;
+}
 .header-top{
   background-color: #1A7EBD;
   padding: 7px;
@@ -102,6 +107,9 @@ td, th {
 }
 table{
   margin: auto;
+}
+.locr{
+  margin-top: 0px !important;
 }
 .nav-link{
   font-family: "Poppins", sans-serif;
@@ -569,7 +577,7 @@ hr{
   height: 20px;
 }
 h2 {
- font-size: 30px;
+ font-size: 28px;
 }
 h5{
   font-size: 18px;
@@ -622,6 +630,39 @@ margin-top: 20px;
   padding-bottom: 20px;
 }
 .navbar{
+  padding-top: 6px;
+}
+.border-r {
+  border-right: none;
+  border-bottom: 1px solid #fff;
+}
+.navbar-nav{
   padding-top: 20px;
+}
+.infra-te img {
+  width: 50px;
+  height: 50px;
+}
+#infrad {
+  font-size: 24px;
+}
+td, th {
+padding: 5px 5px;
+  font-size: 14px;
+}
+.juli ul li::before {
+  left: -5px;
+}
+#enq {
+  font-size: 22px;
+}
+.locr{
+  margin-top: 20px !important;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+ margin-top: 20px;
+}
+.nav-pills .nav-link{
+  margin-top: 20px;
 }
 }
