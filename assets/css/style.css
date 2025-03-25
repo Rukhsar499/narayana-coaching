@@ -351,6 +351,7 @@ h2{
 .footer{
  background-image: url(../img/footerbg.jpg);
  background-repeat: no-repeat;
+ background-size: cover;
  height: auto;
  padding: 50px 0px;
 }
