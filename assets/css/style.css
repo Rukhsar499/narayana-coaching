@@ -255,7 +255,14 @@ select option{
   color: #000;
   padding: 10px;
   border-radius: 5px 5px 0px 0px;
-  
+}
+.outertext{
+  margin-top: 10px;
+  text-align: center;
+}
+#nres{
+  color: #ed7900;
+  padding-top: 5px;
 }
 h2{
   text-align: center;
