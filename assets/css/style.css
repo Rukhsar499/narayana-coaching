@@ -348,6 +348,65 @@ h2{
 .why-img{
   margin-top: 40px;
 }
+.bod-parent {
+  position: relative;
+  overflow: hidden;
+}
+
+.bod-description p {
+  margin-bottom: 5px;
+}
+
+.bod {
+  opacity: 0;
+}
+
+.bod-parent > .bod {
+  transition: all 0.5s ease;
+}
+
+.bod-parent:hover > .bod {
+  opacity: 1;
+  bottom: 0;
+  transition: all 0.5s ease;
+}
+
+.bod-parent img {
+  width: 100%;
+  transition: 0.5s ease;
+}
+
+/* Image Zoom on Hover */
+.bod-parent:hover img {
+  transform: scale(1.2);
+}
+
+.bod-overlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 16px;
+  color: white;
+}
+
+.director-name {
+  font-size: 18px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.bod-description {
+  position: absolute;
+  background-color: #ed7a00be;
+  left: 0;
+  width: 100%;
+  padding: 16px;
+  transition: bottom 0.3s;
+}
+
+.bod-parent:hover .bod-description {
+  bottom: 0;
+}
 .footer{
  background-image: url(../img/footerbg.jpg);
  background-repeat: no-repeat;
