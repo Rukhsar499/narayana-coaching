@@ -9,6 +9,9 @@ body{
 	background-color: #fff;
   font-family: "Poppins", sans-serif;
 }
+p{
+  margin-bottom: 10px;
+}
 a{
   text-decoration: none;
 }
@@ -261,12 +264,12 @@ select option{
   text-align: center;
 }
 #nres{
-  color: #ed7900;
-  padding-top: 5px;
+  color: #fff;
+  margin-bottom: 0px;
 }
 h2{
   text-align: center;
-  font-size: 44px;
+  font-size: 38px;
   font-weight: 600;
 }
 .free{
@@ -283,6 +286,24 @@ h2{
   border-radius: 20px;
   font-size: 14px;
   font-weight: 500;
+}
+.curri-img{
+  position: relative;
+}
+.curri-text{
+  position: absolute;
+  top: 4%;
+  left: 0%;
+  background-color: #ed7900;
+  color: #fff;
+  display: inline-block;
+  font-size: 12px;
+  padding: 5px 10px;
+  border-radius: 0px 5px 5px 0px;
+}
+.read{
+  color: #ed7900;
+  font-weight: 600;
 }
 #free{
   text-align: left;
