@@ -399,6 +399,7 @@ h2{
 }
 
 .bod-description {
+  font-size: 14px;
   position: absolute;
   background-color: #ed7a00e3;
   left: 0;
@@ -417,8 +418,22 @@ h2{
  height: auto;
  padding: 50px 0px;
 }
+.digi-text{
+  padding-top: 30px;
+}
+.exps-text{
+  padding-top: 20px;
+}
 #btd{
   color: #fff;
+}
+.digital {
+  background-color: #F1F9FF;
+  padding: 30px 0px 30px 0px;
+}
+.digita {
+  background-color: #FCFFF1;
+  padding: 30px 0px;
 }
 .fa-facebook-f, .fa-instagram, .fa-youtube{
   color: #fff;
