@@ -201,7 +201,26 @@ border: none;
   display: table-cell;
   width: 20%
 }
-
+.ser-vice {
+ justify-content: center;
+  gap: 50px;
+}
+.service-box {
+  background-color: #1A7EBD;
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+  transition: all .5s ease-in-out;
+  width: 200px;
+  margin-top: 20px;
+}
+.service-box h5{
+  font-size: 18px;
+  color: #fff;
+}
+.service-box img{
+  margin-bottom: 10px;
+}
 #tab-button li a {
   font-size: 14px;
   display: block;
