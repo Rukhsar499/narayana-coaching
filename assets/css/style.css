@@ -173,6 +173,16 @@ border: none;
 .img-bf{
   margin-bottom: 20px;
 }
+.faq{
+  margin: auto;
+  width: 80%;
+  background-color: #ffeee14d;
+  border-radius: 10px;
+  padding: 20px;
+}
+.faqline{
+  color: #000;
+}
 @media screen and (min-width: 640px) {
   .tab-button-outer {
       position:relative;
