@@ -214,6 +214,10 @@ border: none;
   width: 200px;
   margin-top: 20px;
 }
+.service-box:hover {
+  background-color: #ed7900;
+  color: #fff;
+}
 .service-box h5{
   font-size: 18px;
   color: #fff;
