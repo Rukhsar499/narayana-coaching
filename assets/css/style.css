@@ -170,6 +170,9 @@ border: none;
 .nw-box{
   box-shadow: 3px 3px 10px 2px #f5f5f5;
 }
+.img-bf{
+  margin-bottom: 20px;
+}
 @media screen and (min-width: 640px) {
   .tab-button-outer {
       position:relative;
