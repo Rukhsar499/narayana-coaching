@@ -71,6 +71,15 @@ a{
   margin: 0 auto;
   color: #fff;
 }
+.sport-img{
+  padding: 20px;
+}
+.advant{
+  background-image: url(../img/bestbg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px 0px;
+}
 .header-top{
   background-color: #1A7EBD;
   padding: 7px;
@@ -86,6 +95,16 @@ a{
   top: 0;
   transition: 0.3s;
 }
+/* .tab::before {
+  content: '';
+  background-image: url(../img/icon-dotted.png);
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 15%;
+  left: 0%;
+} */
 .infrah {
   position: relative;
 }
@@ -422,6 +441,7 @@ h2{
   text-align: center;
   font-size: 38px;
   font-weight: 600;
+  color: #ed7900;
 }
 .free{
   background-image: url(../img/contact-bg.jpg);
