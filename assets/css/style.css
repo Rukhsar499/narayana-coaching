@@ -26,6 +26,7 @@ a{
   background-color: #fff;
   padding: 12px 5px 25px 2px;
   clip-path: polygon(50% 0%, 100% 0, 100% 43%, 100% 84%, 49% 100%, 0 86%, 0% 43%, 0 0);
+  box-shadow: 1px -2px 6px rgba(0, 0, 0, 0.2);
 }
 .dropdown-item {
   font-size: 14px;
