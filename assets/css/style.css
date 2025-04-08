@@ -9,6 +9,9 @@ body{
 	background-color: #fff;
   font-family: "Poppins", sans-serif;
 }
+#ez{
+  color: #1A7EBD;
+}
 p{
   margin-bottom: 10px;
 }
@@ -152,6 +155,13 @@ a{
   color: #000;
   margin-right: 20px;
   border-bottom: 2px solid #1A7EBD;
+}
+.curris {
+  background-image: url(../img/bestbg.png);
+  background-repeat: no-repeat;
+  height: auto;
+  padding: 50px 0px;
+  background-size: cover;
 }
 .exerd {
   position: relative;
@@ -440,8 +450,8 @@ border: none;
 h3{
   font-size: 20px;
   letter-spacing: 0.1rem;
-  color: #1A7EBD;
-  margin-bottom: 0px;
+  color: #ed7900;
+  margin-bottom: 5px;
 }
 .center1{
   background-color: #FFEEE1;
@@ -512,7 +522,7 @@ h2{
   text-align: center;
   font-size: 38px;
   font-weight: 600;
-  color: #ed7900;
+  color: #1A7EBD;
 }
 .free{
   background-image: url(../img/contact-bg.jpg);
@@ -544,7 +554,7 @@ h2{
   border-radius: 0px 5px 5px 0px;
 }
 .read{
-  color: #ed7900;
+  color: #000000e3;
   font-weight: 600;
 }
 #free{
@@ -952,8 +962,8 @@ h5{
 .mb {
   margin-bottom: 20px;
 }
-.course-div{
-  margin-bottom: 20px;
+.course-div {
+  margin-bottom: 40px;
 }
 .second img{
   width: 50px;
@@ -1011,7 +1021,7 @@ padding: 5px 5px;
 #enq {
   font-size: 22px;
 }
-.locr{
+.locr, .exerd{
   margin-top: 20px !important;
 }
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
@@ -1022,5 +1032,37 @@ padding: 5px 5px;
 }
 .tab-button-outer {
   display: none
+}
+.service-box{
+  width: 100%;
+}
+.exe-img {
+ top: 2%;
+left: -45%;
+}
+
+.bod-parent, .met-text, .met-img{
+  margin-bottom: 20px;
+}
+.social-icon{
+ margin-bottom: 30px;
+}
+.exe-img2 {
+  position: absolute;
+  bottom: -21%;
+  left: -25%;
+  z-index: -1;
+}
+.goole img{
+  width: 120px;
+}
+.digi-text {
+  padding-top: 0px;
+}
+#automobile{
+  font-size: 14px;
+}
+.white-box {
+  padding: 0px 20px 0px 20px;
 }
 }
